@@ -1,0 +1,21 @@
+2020-11-05 16:52:15,058 - BrowserEngine - INFO - You had select Chrome browser
+2020-11-05 16:52:15,060 - BrowserEngine - INFO - the test server url is https://www.baidu.com.
+2020-11-05 16:52:25,748 - BrowserEngine - INFO - Open url https://www.baidu.com
+2020-11-05 16:52:27,069 - BrowserEngine - INFO - Maximize the current window.
+2020-11-05 16:52:27,084 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-11-05 16:52:27,282 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2020-11-05 16:52:29,446 - BasePage - INFO - Had type ' selenium ' in inputBox
+2020-11-05 16:52:30,112 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2020-11-05 16:52:30,962 - BasePage - INFO - The element '  ' was clicked.
+2020-11-05 16:52:34,236 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-11-05 16:52:34,245 - BasePage - INFO - Current page title is selenium_°Ù¶ÈËÑË÷
+2020-11-05 16:52:41,634 - BrowserEngine - INFO - You had select Chrome browser
+2020-11-05 16:52:41,636 - BrowserEngine - INFO - the test server url is https://www.baidu.com.
+2020-11-05 16:52:51,187 - BrowserEngine - INFO - Open url https://www.baidu.com
+2020-11-05 16:52:52,406 - BrowserEngine - INFO - Maximize the current window.
+2020-11-05 16:52:52,409 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-11-05 16:52:52,461 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2020-11-05 16:52:52,786 - BasePage - INFO - Had type ' python ' in inputBox
+2020-11-05 16:52:53,016 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2020-11-05 16:52:53,237 - BasePage - INFO - The element '  ' was clicked.
+2020-11-05 16:53:00,139 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

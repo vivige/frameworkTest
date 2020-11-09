@@ -1,0 +1,8 @@
+2020-11-05 17:48:37,790 - BrowserEngine - INFO - You had select Chrome browser
+2020-11-05 17:48:37,801 - BrowserEngine - INFO - the test server url is https://www.baidu.com.
+2020-11-05 17:48:45,477 - BrowserEngine - INFO - Open url https://www.baidu.com
+2020-11-05 17:48:46,730 - BrowserEngine - INFO - Maximize the current window.
+2020-11-05 17:48:46,733 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-11-05 17:48:47,343 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-11-05 17:48:55,527 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-11-05 17:48:59,531 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
